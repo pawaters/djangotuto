@@ -1,0 +1,1 @@
+Django official tuto to learn quickly to be able to deliver an assignment
